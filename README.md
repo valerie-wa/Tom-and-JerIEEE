@@ -14,5 +14,12 @@ Micromouse using
 - 12V Step up Regulator for Motor
 - And assorted LEDS/resistors/capacitors/transistors
 
-Schematic
+##### Schematic
 <img width="5223" height="3273" alt="tomJerrieeeSchematic" src="https://github.com/user-attachments/assets/97f13664-13a8-4721-a8eb-c7bfc97961b4" />
+
+##### PCB
+Front
+<img width="2160" height="2734" alt="PCB1_Final_2026-11-21_front" src="https://github.com/user-attachments/assets/00761f7a-6f2a-4856-8b47-c950e7c0e393" />
+
+Back
+<img width="2160" height="2734" alt="PCB1_Final_2026-11-21_Back" src="https://github.com/user-attachments/assets/a9de59a4-5743-4528-a2fa-7816b00006e6" />
